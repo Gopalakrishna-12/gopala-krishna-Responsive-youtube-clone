@@ -15,4 +15,4 @@ A responsive YouTube homepage clone built using HTML and CSS.
 - CSS3
 
 ## Author
-Chikkam Satya Hasini
+Chakka Gopala Krishna
