@@ -1,4 +1,4 @@
-# gopala-krishna-Responsive-youtube-clone
+# Gopala-Krishna-Responsive-youtube-clone
 # Responsive YouTube Clone
 
 A responsive YouTube homepage clone built using HTML and CSS.
